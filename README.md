@@ -2,7 +2,7 @@
 # Trabajo Práctico 2: Desarrollo Guiado por Pruebas (TDD) - Detector de Palíndromos
 
 ## Identificación del Alumno
-**Nombre y Apellido:** [Martín Andrés Alessandra]
+**Nombre y Apellido:** [Martín Alessandra]
 
 
 
