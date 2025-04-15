@@ -31,6 +31,8 @@ En la segunda fase, deberás:
 3. Asegurarte de que todas las pruebas pasen (verde)
 4. Hacer commit y push de la implementación
 
+
+
 ## Requisitos
 - Python 3.x
 - unittest (incluido en la biblioteca estándar de Python)
